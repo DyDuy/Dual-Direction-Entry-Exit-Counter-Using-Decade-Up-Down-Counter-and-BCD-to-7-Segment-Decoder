@@ -83,5 +83,4 @@ This project implements a simple **people counter** circuit using **digital logi
 
 ---
 
-## 📁 File Structure
 
