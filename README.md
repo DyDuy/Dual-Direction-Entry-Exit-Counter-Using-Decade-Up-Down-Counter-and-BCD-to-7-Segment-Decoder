@@ -57,14 +57,6 @@ This project implements a simple **people counter** circuit using **digital logi
 
 ---
 
-## 🖼️ Simulation
-
-The design can be tested in **Proteus**. The image below shows the circuit in simulation:
-
-![Simulation Screenshot](./b44e7619-0bd7-4d06-a366-92213186ab26.png)
-
----
-
 ## 📌 Notes
 
 - You can add an optional **buzzer** for audible alert when the LED is on.
